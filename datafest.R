@@ -1,7 +1,7 @@
 #******************************************************************************
 # This is the code for ENAR 2025 datafest.
 # Participants Weiran Yang, Xinyang Fei, Junlu Wang
-# From Department of GPH, New York University
+# From Department of Biostatistics, New York University
 # Analysis for data from NHANES 1999-2020            Last edit on Feb 17,2025
 #******************************************************************************
 library(survey)
